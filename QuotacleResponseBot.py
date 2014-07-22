@@ -1,3 +1,4 @@
+""" Go to line 81 for interesting stuff """
 import praw
 import sys, os
 import uuid
