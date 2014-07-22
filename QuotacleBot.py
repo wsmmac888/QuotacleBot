@@ -1,3 +1,4 @@
+""" Go to line 80 for interesting suff """
 import praw
 import datetime
 import time
